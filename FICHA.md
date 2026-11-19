@@ -47,3 +47,4 @@
 
 - Si el usuario o la contraseña están mal: «El usuario o la contraseña no son correctos. Revisa los datos e inténtalo de nuevo.»
 - Si falta un campo obligatorio en el formulario: «Completa los campos obligatorios para guardar el artículo.»
+- Si se va a borrar un elemento: «¿Seguro que deseas eliminar este artículo? Esta acción no se puede deshacer.»
