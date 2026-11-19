@@ -38,6 +38,8 @@
 - **Registrarse:** Abre el flujo o ventana para crear una nueva cuenta de usuario.
 - **Cerrar sesión:** Cierra la sesión actual y vuelve a la pantalla de inicio de sesión.
 - **+ Nuevo artículo:** Abre el formulario para dar de alta un nuevo artículo en el catálogo.
+- **Editar:**  Abre el formulario precargado con los datos del artículo seleccionado en la tabla para modificarlo.
+- **Borrar:**  Solicita confirmación explícita mediante un diálogo antes de eliminar el artículo seleccionado de la tabla.
 - **Guardar artículo:** Comprueba que los campos obligatorios estén rellenos y guarda el artículo en la lista.
 - **Cancelar:** Descarta los cambios del formulario y regresa a la vista anterior sin guardar.
 
